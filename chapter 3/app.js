@@ -9,8 +9,8 @@ alert('You have visited this site '+visit+ ' times');
 var birthYear = 1998;
 document.writeln('My birth year is '+birthYear)
 
-var visitorName = 'Talha Khalid';
+var visitorName = 'Kiran Maqsood';
 var productTitle = 'T-shirts';
 var quantity = 5;
 
-document.writeln('<br>'+visitorName+' ordered ('+quantity+')'+productTitle+' from Talha Clothing Store')
+document.writeln('<br>'+visitorName+' ordered ('+quantity+')'+productTitle+' from Kiran Clothing Store')
